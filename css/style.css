@@ -1,1 +1,89 @@
 @charset "utf-8";
+
+article{
+	background:#e0e0e0;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+table th, table td{
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    cursor: default;
+}
+td{
+	background: #fff;
+	text-align: center;
+	height:20px;
+	width:20px;
+}
+.nobg{
+	background:transparent;
+	height:auto;
+	width:auto;
+}
+.crosshair{
+	outline: 1px solid #333;
+}
+.type01 {
+    background: #e4e4e4;
+}
+.type02 {
+    background: #fddacf;
+}
+.type03 {
+    background: #c9e5fd;
+}
+.type04 {
+    background: #aefbd0;
+}
+.type05 {
+    background: #fff9b2;
+}
+.type06 {
+    background: #c5f7ff;
+}
+.type07 {
+    background: #ffc7c7;
+}
+.type08 {
+    background: #e6d3fb;
+}
+.type09 {
+    background: #ffdec3;
+}
+.type10 {
+    background: #e6f3ff;
+}
+.type11 {
+    background: #f7d5ff;
+}
+.type12 {
+    background: #d0ffbc;
+}
+.type13 {
+    background: #f8ffdb;
+}
+.type14 {
+    background: #c7c9ff;
+}
+.type15 {
+    background: #c6d7ff;
+}
+.type16 {
+    background: #c1c1c1;
+}
+.type17 {
+    background: #c6ffef;
+}
+.type18 {
+    background: #fee7ff;
+}
